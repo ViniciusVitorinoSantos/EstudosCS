@@ -8,3 +8,6 @@ A --> C(Round Rect)
 B --> D{Rhombus}
 C --> D
 ```
+## Licensa MIT 
+
+**Software Livre Claro que sim**
