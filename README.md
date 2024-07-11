@@ -3,9 +3,9 @@
 
 ```mermaid
 graph LR
-A[Square Rect] -- Link text --> B((C#))
+A[Vinicius Vitorino] -- https://learn.microsoft.com/pt-br/dotnet/csharp/?source=docs --> B((C#))
 A --> C(.NET)
-B --> D{Rhombus}
+B --> D{aprender mais}
 C --> D
 ```
 ## Licensa MIT 
