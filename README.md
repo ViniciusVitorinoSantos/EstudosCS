@@ -12,5 +12,6 @@ E --> D
 ```
 ## Licensa MIT 
 
-**Software Livre Claro que sim**
+**Software Livre Claro que sim !**
 ---
+🛫🛫
