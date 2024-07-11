@@ -5,7 +5,7 @@
 graph LR
 A[Vinicius Vitorino] -- https://learn.microsoft.com/pt-br/dotnet/csharp/?source=docs --> B((C#))
 A --> C(.NET)
-A -- https://learn.microsoft.com/pt-br/cpp/cpp/?view=msvc-170 --> E(C++)
+A -- https://learn.microsoft.com/pt-br/cpp/cpp/?view=msvc-170 --> E{C++}
 B --> D((Game Developer))
 C --> D
 E --> D
