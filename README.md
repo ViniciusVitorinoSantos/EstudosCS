@@ -1,5 +1,5 @@
 # Estudos C#
- Novo repositório destinado aos estudo com a linguagem de programação C#
+ _**Novo repositório destinado aos estudo com a linguagem de programação C#**_
 
 ```mermaid
 graph LR
