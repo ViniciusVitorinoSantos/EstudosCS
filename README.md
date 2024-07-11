@@ -6,7 +6,7 @@ graph LR
 A[Vinicius Vitorino] -- https://learn.microsoft.com/pt-br/dotnet/csharp/?source=docs --> B((C#))
 A --> C(.NET)
 A --> E(C++)
-B --> D(Game Developer)
+B --> D((Game Developer))
 C --> D
 ```
 ## Licensa MIT 
